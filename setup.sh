@@ -37,3 +37,4 @@ ln -sb devenv/.bashrc .
 ln -sb devenv/.bashrc_custom .
 ln -sb devenv/.gitconfig .
 ln -sb devenv/.jshintrc .
+ln -sb devenv/.vimrc .
